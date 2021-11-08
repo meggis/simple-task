@@ -36,7 +36,6 @@ export default {
       ],
       menu_items: [
         {
-          header: true,
           title: "Menu",
           hiddenOnCollapse: true,
         },

@@ -62,11 +62,7 @@ export default {
 </script>
 
 <style>
-body, html {
-  min-height: 100vh;
-  max-width: 100vw;
-}
-
+@import './assets/styles/styles.css';
 
 </style>
 

@@ -9,7 +9,6 @@
         >
           <b-form-select
             v-model="selected"
-            style="width: 100%"
             id="input-1"
             :options="getSelectedCurrenciesOptions()"
             required
@@ -73,9 +72,3 @@ export default {
   },
 };
 </script>
-
-<style scoped>
-h5 {
-  color: #0d6efd;
-}
-</style>
